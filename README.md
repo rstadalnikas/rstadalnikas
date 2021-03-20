@@ -1,4 +1,4 @@
-The purpose of this site is for educational practice.
+The purpose of this site is for posting practice programs from entry level programming courses.
 
 <!---
 rstadalnikas/rstadalnikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
